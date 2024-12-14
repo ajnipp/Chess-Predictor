@@ -1,5 +1,5 @@
 ## Description
-*Chess Predictor* is a deep learning model that predicts the outcome of chess games based on the move sequences. The model is trained on over 1 million chess games scraped from Chess.com.
+*Chess Predictor* is a deep learning model that predicts the outcome of chess games based on the move sequences. The model is trained on over 1 million chess games scraped from lichess.com.
 
 ## Data
 We used the a chess dataset on Kaggle linked [here](https://www.kaggle.com/datasets/arevel/chess-games).
